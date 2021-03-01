@@ -1,3 +1,9 @@
 [submodule "Middlewares/Third_Party/Prust-RTOS"]
 	path = Middlewares/Third_Party/Prust-RTOS
 	url = https://github.com/visionspacetec/Prust-RTOS.git
+[submodule "Middlewares/Third_Party/Prust"]
+	path = Middlewares/Third_Party/Prust
+	url = https://github.com/visionspacetec/Prust.git
+[submodule "Middlewares/Third_Party/Prust-Test"]
+	path = Middlewares/Third_Party/Prust-Test
+	url = https://github.com/visionspacetec/Prust-Test.git
