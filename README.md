@@ -4,5 +4,11 @@ New main repo for the C code that contains Prust module written in Rust. Most of
 # How To Build
 Build Prust-RTOS project from ../Middlewares/ThirdParty/Prust-RTOS. See [Prust-RTOS](https://github.com/visionspacetec/Prust-RTOS)
 
-# Soon
-- Wiki page to reconstruct this project.
+# Design
+Design specific for the VST104 example:  
+ 
+![Design](media/designvst.png)
+
+
+# Short Tutorial Of This Demo 
+- See the wiki page [here](https://github.com/visionspacetec/Prust/wiki/How-I-Built-This-On-VST104)
