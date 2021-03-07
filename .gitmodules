@@ -7,3 +7,6 @@
 [submodule "Middlewares/Third_Party/Prust-Test"]
 	path = Middlewares/Third_Party/Prust-Test
 	url = https://github.com/visionspacetec/Prust-Test.git
+[submodule "Middlewares/Third_Party/Prust-App"]
+	path = Middlewares/Third_Party/Prust-App
+	url = https://github.com/visionspacetec/Prust-App
