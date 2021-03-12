@@ -2,7 +2,7 @@
 New main repo for the C code that contains Prust module written in Rust. Most of it is generated code except the prust part. Auto-generated mostly for VST104
 
 ```
-Prust-RTOS-Gen  
+Prust-FreeRTOS  
 +-- Middlewares/Third_Party/  
 |     +-- Prust-App            <-submodule: https://github.com/visionspacetec/Prust-App    
 |     +-- FreeRTOS              <-FreeRTOS source code imported automatically by STM32CubeIDE
