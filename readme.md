@@ -31,4 +31,4 @@ Design specific for the VST104 example:
 
 
 # Short Tutorial Of This Demo 
-- See how this was done from scratch in wiki page [here](https://github.com/visionspacetec/Prust/wiki/How-To-Build-This-On-VST104)
+- See how this was done from scratch in wiki page [here](https://github.com/visionspacetec/Prust/wiki/How-To-Build-On-VST104)
